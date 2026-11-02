@@ -59,8 +59,8 @@ flowchart LR
 
 | # | Document | What it covers |
 |---|----------|----------------|
-| 1 | [Service Request Management](Doc/01-service-request-management.md) | Every type of request, approval flow, fulfilment, SLAs |
-| 2 | [Procurement and Vendor Onboarding](Doc/02-procurement-and-vendor-onboarding.md) | Hardware and software purchase, the 3-quote rule, vendor due diligence, renewals |
+| 1 | [Service Request Management](docs/01-service-request-management.md) | Every type of request, approval flow, fulfilment, SLAs |
+| 2 | [Procurement and Vendor Onboarding](docs/02-procurement-and-vendor-onboarding.md) | Hardware and software purchase, the 3-quote rule, vendor due diligence, renewals |
 | 3 | [Incident Management](docs/03-incident-management.md) | P1 to P4 definitions, escalation, war room, communication channels, post-incident review |
 | 4 | [Change Enablement](docs/04-change-enablement.md) | Standard, normal and emergency changes, CAB, rollback |
 | 5 | [Problem and Knowledge Management](docs/05-problem-and-knowledge-management.md) | Root cause analysis, known errors, knowledge articles |

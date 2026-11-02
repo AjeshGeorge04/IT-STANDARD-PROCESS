@@ -107,8 +107,9 @@ The same flows work for everyone. What changes is **how many people sit in each 
 - **SLA:** The time we promise to respond and resolve.
 - **CMDB / Asset Register:** The record of what we own and how it connects.
 - **MSA / NDA / DPA:** Master Service Agreement, Non-Disclosure Agreement, Data Processing Agreement.
-
 ---
+One last thing
+These are starting points, not legal or compliance advice. Every organization is different, so adjust them to fit your own rules and your own risks.
 
 ## Contributing
 

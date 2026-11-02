@@ -4,7 +4,7 @@
 
 ---
 
-## A Quick Word From Me
+## A Quick Introduction
 
 I have spent my career leading IT teams inside large, well-known, Class A corporate organisations. I have been the person on the bridge call at 2 AM during a P1, the person defending a hardware budget in front of Finance, and the person who had to explain to a CEO why a "small change" took down a customer-facing system.
 
@@ -59,8 +59,8 @@ flowchart LR
 
 | # | Document | What it covers |
 |---|----------|----------------|
-| 1 | [Service Request Management](docs/01-service-request-management.md) | Every type of request, approval flow, fulfilment, SLAs |
-| 2 | [Procurement and Vendor Onboarding](docs/02-procurement-and-vendor-onboarding.md) | Hardware and software purchase, the 3-quote rule, vendor due diligence, renewals |
+| 1 | [Service Request Management](Doc/01-service-request-management.md) | Every type of request, approval flow, fulfilment, SLAs |
+| 2 | [Procurement and Vendor Onboarding](Doc/02-procurement-and-vendor-onboarding.md) | Hardware and software purchase, the 3-quote rule, vendor due diligence, renewals |
 | 3 | [Incident Management](docs/03-incident-management.md) | P1 to P4 definitions, escalation, war room, communication channels, post-incident review |
 | 4 | [Change Enablement](docs/04-change-enablement.md) | Standard, normal and emergency changes, CAB, rollback |
 | 5 | [Problem and Knowledge Management](docs/05-problem-and-knowledge-management.md) | Root cause analysis, known errors, knowledge articles |

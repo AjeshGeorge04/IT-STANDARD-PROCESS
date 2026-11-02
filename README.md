@@ -6,7 +6,7 @@
 
 ## A Quick Introduction
 
-I have spent my career leading IT teams inside large, well-known, Class A corporate organisations. I have been the person on the bridge call at 2 AM during a P1, the person defending a hardware budget in front of Finance, and the person who had to explain to a CEO why a "small change" took down a customer-facing system.
+I have spent over 20 years building my career across multiple corporate organisations, including prestigious Class A companies, leading IT teams and delivering enterprise technology solutions. I have been the person on the bridge call at 2 AM during a P1, the person defending a hardware budget in front of Finance, and the person who had to explain to a CEO why a "small change" took down a customer-facing system.
 
 Across all of those years, one lesson keeps repeating: **good IT is rarely about the best tool or the smartest engineer. It is about a simple, well-understood process that everyone follows, even when things get stressful.**
 
@@ -117,5 +117,5 @@ Found a gap? Have a better way? Open an issue or raise a pull request. Process d
 ---
 
 *Document owner: Head of IT / IT Service Owner*
-*Version: 1.0*
+*Version: 1.0.1*
 *Review cycle: Every 6 months*
